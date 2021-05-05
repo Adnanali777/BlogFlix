@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886799398103",
+    "project_id": "blogflix-febb9",
+    "storage_bucket": "blogflix-febb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886799398103:android:e3e490efd0dbaafc6d6c92",
+        "android_client_info": {
+          "package_name": "com.adnanali.blogflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886799398103-rrnauvi3nlg7dmk1oeu737oih8auvu3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adnanali.blogflix",
+            "certificate_hash": "ef9d59688d4544581b0d67b3f03b88bb9340b240"
+          }
+        },
+        {
+          "client_id": "886799398103-mogc7rn8kq4rr60queoda1mbfufet2sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaHkwYbjlJaG18bgzQSDUA8eoqmA3R8lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886799398103-mogc7rn8kq4rr60queoda1mbfufet2sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
