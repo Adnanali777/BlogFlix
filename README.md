@@ -1,6 +1,8 @@
-# blogflix
+# BlogFlix
 
-A new Flutter project.
+A Blog app made using flutter and firebase .
+User can write and publish their blogs only after authorizing with their google accounts.
+
 
 ## Getting Started
 
