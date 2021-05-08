@@ -3,6 +3,8 @@
 A Blog app made using flutter and firebase .
 User can write and publish their blogs only after authorizing with their google accounts.
 
+Follow the link to download apk : https://drive.google.com/file/d/1IYngCNqHTI_aRhWrjmMTPaADoIUozBzR/view?usp=sharing
+
 
 ## Getting Started
 
